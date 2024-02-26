@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.social-links{
+    display: flex;
+    flex-direction: column;
+}
+
+.social-links button:hover{
+    background-color: green;
+}
